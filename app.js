@@ -1,1 +1,8 @@
-console.log("hola que mas como vas")
+function countToTen(){
+
+    for (let num = 1;num<11;num++){
+        console.log(num)
+    }
+}
+
+countToTen()
